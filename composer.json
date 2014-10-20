@@ -1,0 +1,10 @@
+{
+    "name": "aeon/standard",
+    "authors": [
+        {
+            "name": "Daniel Heath",
+            "email": "danielowenheath@gmail.com"
+        }
+    ],
+    "require": {}
+}
